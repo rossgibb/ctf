@@ -1,3 +1,5 @@
-## Usage
+ish (Exploitation 300)
 
-`exploit <ip> <port>`
+Usage:
+
+`python exploit.py <ip> <port>`

@@ -9,4 +9,4 @@ To extract the individual files within the archive:
 
 To attempt to make a best effort decompression:
 
-`python decompress.py &lt;file_name&gt;`
+`python decompress.py <file_name>`
