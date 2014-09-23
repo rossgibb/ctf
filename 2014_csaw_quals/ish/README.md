@@ -1,0 +1,3 @@
+## Usage
+
+exploit <ip> <port>
