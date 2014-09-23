@@ -1,3 +1,3 @@
 ## Usage
 
-exploit <ip> <port>
+`exploit <ip> <port>`
