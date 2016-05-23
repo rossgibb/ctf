@@ -1,5 +1,6 @@
 CTF writeups
 ===
+[2016 Defcon Quals](2016_defcon_quals)
 
 [2014 CSAW Quals](2014_csaw_quals)
 
